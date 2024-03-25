@@ -15,7 +15,7 @@
 				"mappings": [
 					{
 						"source": {
-							"name": "[Shipment ID]"
+							"name": "\"Shipment ID\""
 						},
 						"sink": {
 							"name": "ShipmentID"
@@ -23,7 +23,7 @@
 					},
 					{
 						"source": {
-							"name": "[International Data ID]"
+							"name": "\"International Data ID\""
 						},
 						"sink": {
 							"name": "InternationalDataID"
@@ -31,7 +31,7 @@
 					},
 					{
 						"source": {
-							"name": "[Freight Charge]"
+							"name": "\"Freight Charge\""
 						},
 						"sink": {
 							"name": "FreightCharge"
@@ -39,7 +39,7 @@
 					},
 					{
 						"source": {
-							"name": "[Goods Value]"
+							"name": "\"Goods Value\""
 						},
 						"sink": {
 							"name": "GoodsValue"
@@ -63,7 +63,7 @@
 					},
 					{
 						"source": {
-							"name": "[Other Charges]"
+							"name": "\"Other Charges\""
 						},
 						"sink": {
 							"name": "OtherCharges"
@@ -71,7 +71,7 @@
 					},
 					{
 						"source": {
-							"name": "[Other Charges Description]"
+							"name": "\"Other Charges Description\""
 						},
 						"sink": {
 							"name": "OtherChargesDescription"
@@ -79,7 +79,7 @@
 					},
 					{
 						"source": {
-							"name": "[Invoice Total]"
+							"name": "\"Invoice Total\""
 						},
 						"sink": {
 							"name": "InvoiceTotal"
@@ -87,7 +87,7 @@
 					},
 					{
 						"source": {
-							"name": "[ITN Number]"
+							"name": "\"ITN Number\""
 						},
 						"sink": {
 							"name": "ITNNumber"
@@ -95,7 +95,7 @@
 					},
 					{
 						"source": {
-							"name": "[Billing Option]"
+							"name": "\"Billing Option\""
 						},
 						"sink": {
 							"name": "BillingOption"
@@ -103,7 +103,7 @@
 					},
 					{
 						"source": {
-							"name": "[ITN/FTR Exemption]"
+							"name": "\"ITN/FTR Exemption\""
 						},
 						"sink": {
 							"name": "ITN/FTRExemption"
@@ -111,7 +111,7 @@
 					},
 					{
 						"source": {
-							"name": "[Documents Only]"
+							"name": "\"Documents Only\""
 						},
 						"sink": {
 							"name": "DocumentsOnly"
@@ -119,7 +119,7 @@
 					},
 					{
 						"source": {
-							"name": "[Parties Related]"
+							"name": "\"Parties Related\""
 						},
 						"sink": {
 							"name": "PartiesRelated"
@@ -127,7 +127,7 @@
 					},
 					{
 						"source": {
-							"name": "[Is NAFTA]"
+							"name": "\"Is NAFTA\""
 						},
 						"sink": {
 							"name": "IsNAFTA"
@@ -135,7 +135,7 @@
 					},
 					{
 						"source": {
-							"name": "[Description Of Goods]"
+							"name": "\"Description Of Goods\""
 						},
 						"sink": {
 							"name": "DescriptionOfGoods"
@@ -143,7 +143,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Other Than Recipient]"
+							"name": "\"Importer Other Than Recipient\""
 						},
 						"sink": {
 							"name": "ImporterOtherThanRecipient"
@@ -151,7 +151,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient is Intermidiate Consignee]"
+							"name": "\"Recipient is Intermidiate Consignee\""
 						},
 						"sink": {
 							"name": "RecipientisIntermidiateConsignee"
@@ -183,7 +183,7 @@
 					},
 					{
 						"source": {
-							"name": "[AES Shipment ID]"
+							"name": "\"AES Shipment ID\""
 						},
 						"sink": {
 							"name": "AESShipmentID"
@@ -191,7 +191,7 @@
 					},
 					{
 						"source": {
-							"name": "[Submitted to AES Direct]"
+							"name": "\"Submitted to AES Direct\""
 						},
 						"sink": {
 							"name": "SubmittedtoAESDirect"
@@ -199,7 +199,7 @@
 					},
 					{
 						"source": {
-							"name": "[Reason For Export]"
+							"name": "\"Reason For Export\""
 						},
 						"sink": {
 							"name": "ReasonForExport"
@@ -207,7 +207,7 @@
 					},
 					{
 						"source": {
-							"name": "[Transportation Reference Number]"
+							"name": "\"Transportation Reference Number\""
 						},
 						"sink": {
 							"name": "TransportationReferenceNumber"
@@ -215,7 +215,7 @@
 					},
 					{
 						"source": {
-							"name": "[Foreign Trade Zone]"
+							"name": "\"Foreign Trade Zone\""
 						},
 						"sink": {
 							"name": "ForeignTradeZone"
@@ -223,7 +223,7 @@
 					},
 					{
 						"source": {
-							"name": "[Port Of Export]"
+							"name": "\"Port Of Export\""
 						},
 						"sink": {
 							"name": "PortOfExport"
@@ -231,7 +231,7 @@
 					},
 					{
 						"source": {
-							"name": "[Port Of Unlading]"
+							"name": "\"Port Of Unlading\""
 						},
 						"sink": {
 							"name": "PortOfUnlading"
@@ -239,7 +239,7 @@
 					},
 					{
 						"source": {
-							"name": "[Mode Of Transport]"
+							"name": "\"Mode Of Transport\""
 						},
 						"sink": {
 							"name": "ModeOfTransport"
@@ -247,7 +247,7 @@
 					},
 					{
 						"source": {
-							"name": "[Conveyance Name]"
+							"name": "\"Conveyance Name\""
 						},
 						"sink": {
 							"name": "ConveyanceName"
@@ -255,7 +255,7 @@
 					},
 					{
 						"source": {
-							"name": "[Vessel Flag]"
+							"name": "\"Vessel Flag\""
 						},
 						"sink": {
 							"name": "VesselFlag"
@@ -263,7 +263,7 @@
 					},
 					{
 						"source": {
-							"name": "[Import Entry Number]"
+							"name": "\"Import Entry Number\""
 						},
 						"sink": {
 							"name": "ImportEntryNumber"
@@ -271,7 +271,7 @@
 					},
 					{
 						"source": {
-							"name": "[Inbond Type]"
+							"name": "\"Inbond Type\""
 						},
 						"sink": {
 							"name": "InbondType"
@@ -279,7 +279,7 @@
 					},
 					{
 						"source": {
-							"name": "[Routed Transaction Flag]"
+							"name": "\"Routed Transaction Flag\""
 						},
 						"sink": {
 							"name": "RoutedTransactionFlag"
@@ -287,7 +287,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Address ID]"
+							"name": "\"Broker Address ID\""
 						},
 						"sink": {
 							"name": "BrokerAddressID"
@@ -295,7 +295,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Residential]"
+							"name": "\"Broker Residential\""
 						},
 						"sink": {
 							"name": "BrokerResidential"
@@ -303,7 +303,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Company Name]"
+							"name": "\"Broker Company Name\""
 						},
 						"sink": {
 							"name": "BrokerCompanyName"
@@ -311,7 +311,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Address Line 1]"
+							"name": "\"Broker Address Line 1\""
 						},
 						"sink": {
 							"name": "BrokerAddressLine1"
@@ -319,7 +319,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Address Line 2]"
+							"name": "\"Broker Address Line 2\""
 						},
 						"sink": {
 							"name": "BrokerAddressLine2"
@@ -327,7 +327,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Address Line 3]"
+							"name": "\"Broker Address Line 3\""
 						},
 						"sink": {
 							"name": "BrokerAddressLine3"
@@ -335,7 +335,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker City]"
+							"name": "\"Broker City\""
 						},
 						"sink": {
 							"name": "BrokerCity"
@@ -343,7 +343,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker State/Province Code]"
+							"name": "\"Broker State/Province Code\""
 						},
 						"sink": {
 							"name": "BrokerState/ProvinceCode"
@@ -351,7 +351,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Postal Code]"
+							"name": "\"Broker Postal Code\""
 						},
 						"sink": {
 							"name": "BrokerPostalCode"
@@ -359,7 +359,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Country Code]"
+							"name": "\"Broker Country Code\""
 						},
 						"sink": {
 							"name": "BrokerCountryCode"
@@ -367,7 +367,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Country Name]"
+							"name": "\"Broker Country Name\""
 						},
 						"sink": {
 							"name": "BrokerCountryName"
@@ -375,7 +375,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Location Type]"
+							"name": "\"Broker Location Type\""
 						},
 						"sink": {
 							"name": "BrokerLocationType"
@@ -383,7 +383,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Notes]"
+							"name": "\"Broker Notes\""
 						},
 						"sink": {
 							"name": "BrokerNotes"
@@ -391,7 +391,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Primary Contact Email]"
+							"name": "\"Broker Primary Contact Email\""
 						},
 						"sink": {
 							"name": "BrokerPrimaryContactEmail"
@@ -399,7 +399,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Fax]"
+							"name": "\"Broker Fax\""
 						},
 						"sink": {
 							"name": "BrokerFax"
@@ -407,7 +407,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Primary Contact Phone]"
+							"name": "\"Broker Primary Contact Phone\""
 						},
 						"sink": {
 							"name": "BrokerPrimaryContactPhone"
@@ -415,7 +415,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Primary Contact Name]"
+							"name": "\"Broker Primary Contact Name\""
 						},
 						"sink": {
 							"name": "BrokerPrimaryContactName"
@@ -423,7 +423,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker City, State and ZIP]"
+							"name": "\"Broker City, State and ZIP\""
 						},
 						"sink": {
 							"name": "BrokerCity,StateandZIP"
@@ -431,7 +431,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Address Line 1 and Line 2]"
+							"name": "\"Broker Address Line 1 and Line 2\""
 						},
 						"sink": {
 							"name": "BrokerAddressLine1andLine2"
@@ -439,7 +439,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Address Line 2 and Line 3]"
+							"name": "\"Broker Address Line 2 and Line 3\""
 						},
 						"sink": {
 							"name": "BrokerAddressLine2andLine3"
@@ -447,7 +447,7 @@
 					},
 					{
 						"source": {
-							"name": "[Broker Address Line 1, 2 and 3]"
+							"name": "\"Broker Address Line 1, 2 and 3\""
 						},
 						"sink": {
 							"name": "BrokerAddressLine1,2and3"
@@ -455,7 +455,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Address ID]"
+							"name": "\"Ultimate Consignee Address ID\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeAddressID"
@@ -463,7 +463,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Residential]"
+							"name": "\"Ultimate Consignee Residential\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeResidential"
@@ -471,7 +471,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Company Name]"
+							"name": "\"Ultimate Consignee Company Name\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeCompanyName"
@@ -479,7 +479,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Address Line 1]"
+							"name": "\"Ultimate Consignee Address Line 1\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeAddressLine1"
@@ -487,7 +487,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Address Line 2]"
+							"name": "\"Ultimate Consignee Address Line 2\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeAddressLine2"
@@ -495,7 +495,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Address Line 3]"
+							"name": "\"Ultimate Consignee Address Line 3\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeAddressLine3"
@@ -503,7 +503,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee City]"
+							"name": "\"Ultimate Consignee City\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeCity"
@@ -511,7 +511,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee State/Province Code]"
+							"name": "\"Ultimate Consignee State/Province Code\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeState/ProvinceCode"
@@ -519,7 +519,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Postal Code]"
+							"name": "\"Ultimate Consignee Postal Code\""
 						},
 						"sink": {
 							"name": "UltimateConsigneePostalCode"
@@ -527,7 +527,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Country Code]"
+							"name": "\"Ultimate Consignee Country Code\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeCountryCode"
@@ -535,7 +535,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Country Name]"
+							"name": "\"Ultimate Consignee Country Name\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeCountryName"
@@ -543,7 +543,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Location Type]"
+							"name": "\"Ultimate Consignee Location Type\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeLocationType"
@@ -551,7 +551,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Notes]"
+							"name": "\"Ultimate Consignee Notes\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeNotes"
@@ -559,7 +559,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Primary Contact Email]"
+							"name": "\"Ultimate Consignee Primary Contact Email\""
 						},
 						"sink": {
 							"name": "UltimateConsigneePrimaryContactEmail"
@@ -567,7 +567,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Fax]"
+							"name": "\"Ultimate Consignee Fax\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeFax"
@@ -575,7 +575,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Primary Contact Phone]"
+							"name": "\"Ultimate Consignee Primary Contact Phone\""
 						},
 						"sink": {
 							"name": "UltimateConsigneePrimaryContactPhone"
@@ -583,7 +583,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Primary Contact Name]"
+							"name": "\"Ultimate Consignee Primary Contact Name\""
 						},
 						"sink": {
 							"name": "UltimateConsigneePrimaryContactName"
@@ -591,7 +591,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee City, State and ZIP]"
+							"name": "\"Ultimate Consignee City, State and ZIP\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeCity,StateandZIP"
@@ -599,7 +599,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Address Line 1 and Line 2]"
+							"name": "\"Ultimate Consignee Address Line 1 and Line 2\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeAddressLine1andLine2"
@@ -607,7 +607,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Address Line 2 and Line 3]"
+							"name": "\"Ultimate Consignee Address Line 2 and Line 3\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeAddressLine2andLine3"
@@ -615,7 +615,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ultimate Consignee Address Line 1, 2 and 3]"
+							"name": "\"Ultimate Consignee Address Line 1, 2 and 3\""
 						},
 						"sink": {
 							"name": "UltimateConsigneeAddressLine1,2and3"
@@ -623,7 +623,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Address ID]"
+							"name": "\"Importer Address ID\""
 						},
 						"sink": {
 							"name": "ImporterAddressID"
@@ -631,7 +631,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Residential]"
+							"name": "\"Importer Residential\""
 						},
 						"sink": {
 							"name": "ImporterResidential"
@@ -639,7 +639,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Company Name]"
+							"name": "\"Importer Company Name\""
 						},
 						"sink": {
 							"name": "ImporterCompanyName"
@@ -647,7 +647,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Address Line 1]"
+							"name": "\"Importer Address Line 1\""
 						},
 						"sink": {
 							"name": "ImporterAddressLine1"
@@ -655,7 +655,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Address Line 2]"
+							"name": "\"Importer Address Line 2\""
 						},
 						"sink": {
 							"name": "ImporterAddressLine2"
@@ -663,7 +663,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Address Line 3]"
+							"name": "\"Importer Address Line 3\""
 						},
 						"sink": {
 							"name": "ImporterAddressLine3"
@@ -671,7 +671,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer City]"
+							"name": "\"Importer City\""
 						},
 						"sink": {
 							"name": "ImporterCity"
@@ -679,7 +679,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer State/Province Code]"
+							"name": "\"Importer State/Province Code\""
 						},
 						"sink": {
 							"name": "ImporterState/ProvinceCode"
@@ -687,7 +687,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Postal Code]"
+							"name": "\"Importer Postal Code\""
 						},
 						"sink": {
 							"name": "ImporterPostalCode"
@@ -695,7 +695,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Country Code]"
+							"name": "\"Importer Country Code\""
 						},
 						"sink": {
 							"name": "ImporterCountryCode"
@@ -703,7 +703,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Country Name]"
+							"name": "\"Importer Country Name\""
 						},
 						"sink": {
 							"name": "ImporterCountryName"
@@ -711,7 +711,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Location Type]"
+							"name": "\"Importer Location Type\""
 						},
 						"sink": {
 							"name": "ImporterLocationType"
@@ -719,7 +719,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Notes]"
+							"name": "\"Importer Notes\""
 						},
 						"sink": {
 							"name": "ImporterNotes"
@@ -727,7 +727,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Primary Contact Email]"
+							"name": "\"Importer Primary Contact Email\""
 						},
 						"sink": {
 							"name": "ImporterPrimaryContactEmail"
@@ -735,7 +735,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Fax]"
+							"name": "\"Importer Fax\""
 						},
 						"sink": {
 							"name": "ImporterFax"
@@ -743,7 +743,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Primary Contact Phone]"
+							"name": "\"Importer Primary Contact Phone\""
 						},
 						"sink": {
 							"name": "ImporterPrimaryContactPhone"
@@ -751,7 +751,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Primary Contact Name]"
+							"name": "\"Importer Primary Contact Name\""
 						},
 						"sink": {
 							"name": "ImporterPrimaryContactName"
@@ -759,7 +759,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer City, State and ZIP]"
+							"name": "\"Importer City, State and ZIP\""
 						},
 						"sink": {
 							"name": "ImporterCity,StateandZIP"
@@ -767,7 +767,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Address Line 1 and Line 2]"
+							"name": "\"Importer Address Line 1 and Line 2\""
 						},
 						"sink": {
 							"name": "ImporterAddressLine1andLine2"
@@ -775,7 +775,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Address Line 2 and Line 3]"
+							"name": "\"Importer Address Line 2 and Line 3\""
 						},
 						"sink": {
 							"name": "ImporterAddressLine2andLine3"
@@ -783,7 +783,7 @@
 					},
 					{
 						"source": {
-							"name": "[Importer Address Line 1, 2 and 3]"
+							"name": "\"Importer Address Line 1, 2 and 3\""
 						},
 						"sink": {
 							"name": "ImporterAddressLine1,2and3"
@@ -791,7 +791,7 @@
 					},
 					{
 						"source": {
-							"name": "[EEI Filing Type]"
+							"name": "\"EEI Filing Type\""
 						},
 						"sink": {
 							"name": "EEIFilingType"
@@ -799,7 +799,7 @@
 					},
 					{
 						"source": {
-							"name": "[Terms Of Sale]"
+							"name": "\"Terms Of Sale\""
 						},
 						"sink": {
 							"name": "TermsOfSale"
@@ -1850,7 +1850,7 @@
 				"mappings": [
 					{
 						"source": {
-							"name": "[Shipment ID]"
+							"name": "\"Shipment ID\""
 						},
 						"sink": {
 							"name": "ShipmentID"
@@ -1858,7 +1858,7 @@
 					},
 					{
 						"source": {
-							"name": "[Customer ID]"
+							"name": "\"Customer ID\""
 						},
 						"sink": {
 							"name": "CustomerID"
@@ -1866,7 +1866,7 @@
 					},
 					{
 						"source": {
-							"name": "[Location ID]"
+							"name": "\"Location ID\""
 						},
 						"sink": {
 							"name": "LocationID"
@@ -1874,7 +1874,7 @@
 					},
 					{
 						"source": {
-							"name": "[Options ID]"
+							"name": "\"Options ID\""
 						},
 						"sink": {
 							"name": "OptionsID"
@@ -1882,7 +1882,7 @@
 					},
 					{
 						"source": {
-							"name": "[Location Name]"
+							"name": "\"Location Name\""
 						},
 						"sink": {
 							"name": "LocationName"
@@ -1890,7 +1890,7 @@
 					},
 					{
 						"source": {
-							"name": "[StarShip User]"
+							"name": "\"StarShip User\""
 						},
 						"sink": {
 							"name": "StarShipUser"
@@ -1898,7 +1898,7 @@
 					},
 					{
 						"source": {
-							"name": "[Delivery Description]"
+							"name": "\"Delivery Description\""
 						},
 						"sink": {
 							"name": "DeliveryDescription"
@@ -1906,7 +1906,7 @@
 					},
 					{
 						"source": {
-							"name": "[Special Instructions]"
+							"name": "\"Special Instructions\""
 						},
 						"sink": {
 							"name": "SpecialInstructions"
@@ -1914,7 +1914,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipping Record]"
+							"name": "\"Shipping Record\""
 						},
 						"sink": {
 							"name": "ShippingRecord"
@@ -1922,7 +1922,7 @@
 					},
 					{
 						"source": {
-							"name": "[Route Code]"
+							"name": "\"Route Code\""
 						},
 						"sink": {
 							"name": "RouteCode"
@@ -1930,7 +1930,7 @@
 					},
 					{
 						"source": {
-							"name": "[Total Pack Qty]"
+							"name": "\"Total Pack Qty\""
 						},
 						"sink": {
 							"name": "TotalPackQty"
@@ -1938,7 +1938,7 @@
 					},
 					{
 						"source": {
-							"name": "[Total Pallet Qty]"
+							"name": "\"Total Pallet Qty\""
 						},
 						"sink": {
 							"name": "TotalPalletQty"
@@ -1946,7 +1946,7 @@
 					},
 					{
 						"source": {
-							"name": "[Total Weight]"
+							"name": "\"Total Weight\""
 						},
 						"sink": {
 							"name": "TotalWeight"
@@ -1962,7 +1962,7 @@
 					},
 					{
 						"source": {
-							"name": "[Store Number]"
+							"name": "\"Store Number\""
 						},
 						"sink": {
 							"name": "StoreNumber"
@@ -1970,7 +1970,7 @@
 					},
 					{
 						"source": {
-							"name": "[Department Number]"
+							"name": "\"Department Number\""
 						},
 						"sink": {
 							"name": "DepartmentNumber"
@@ -1978,7 +1978,7 @@
 					},
 					{
 						"source": {
-							"name": "[Customer Reference]"
+							"name": "\"Customer Reference\""
 						},
 						"sink": {
 							"name": "CustomerReference"
@@ -1986,7 +1986,7 @@
 					},
 					{
 						"source": {
-							"name": "[Master Tracking Number]"
+							"name": "\"Master Tracking Number\""
 						},
 						"sink": {
 							"name": "MasterTrackingNumber"
@@ -1994,7 +1994,7 @@
 					},
 					{
 						"source": {
-							"name": "[Billing Type]"
+							"name": "\"Billing Type\""
 						},
 						"sink": {
 							"name": "BillingType"
@@ -2002,7 +2002,7 @@
 					},
 					{
 						"source": {
-							"name": "[Tendering Type]"
+							"name": "\"Tendering Type\""
 						},
 						"sink": {
 							"name": "TenderingType"
@@ -2010,7 +2010,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Number]"
+							"name": "\"Shipment Number\""
 						},
 						"sink": {
 							"name": "ShipmentNumber"
@@ -2026,7 +2026,7 @@
 					},
 					{
 						"source": {
-							"name": "[Order Numbers]"
+							"name": "\"Order Numbers\""
 						},
 						"sink": {
 							"name": "OrderNumbers"
@@ -2034,7 +2034,7 @@
 					},
 					{
 						"source": {
-							"name": "[PO Numbers]"
+							"name": "\"PO Numbers\""
 						},
 						"sink": {
 							"name": "PONumbers"
@@ -2042,7 +2042,7 @@
 					},
 					{
 						"source": {
-							"name": "[Invoice Numbers]"
+							"name": "\"Invoice Numbers\""
 						},
 						"sink": {
 							"name": "InvoiceNumbers"
@@ -2050,7 +2050,7 @@
 					},
 					{
 						"source": {
-							"name": "[Billing Account]"
+							"name": "\"Billing Account\""
 						},
 						"sink": {
 							"name": "BillingAccount"
@@ -2058,7 +2058,7 @@
 					},
 					{
 						"source": {
-							"name": "[Label Type]"
+							"name": "\"Label Type\""
 						},
 						"sink": {
 							"name": "LabelType"
@@ -2074,7 +2074,7 @@
 					},
 					{
 						"source": {
-							"name": "[Delivery Charge]"
+							"name": "\"Delivery Charge\""
 						},
 						"sink": {
 							"name": "DeliveryCharge"
@@ -2082,7 +2082,7 @@
 					},
 					{
 						"source": {
-							"name": "[PRO Number]"
+							"name": "\"PRO Number\""
 						},
 						"sink": {
 							"name": "PRONumber"
@@ -2090,7 +2090,7 @@
 					},
 					{
 						"source": {
-							"name": "[BOL Number]"
+							"name": "\"BOL Number\""
 						},
 						"sink": {
 							"name": "BOLNumber"
@@ -2098,7 +2098,7 @@
 					},
 					{
 						"source": {
-							"name": "[FOB Destination]"
+							"name": "\"FOB Destination\""
 						},
 						"sink": {
 							"name": "FOBDestination"
@@ -2106,7 +2106,7 @@
 					},
 					{
 						"source": {
-							"name": "[Truck Size]"
+							"name": "\"Truck Size\""
 						},
 						"sink": {
 							"name": "TruckSize"
@@ -2114,7 +2114,7 @@
 					},
 					{
 						"source": {
-							"name": "[BOL Type]"
+							"name": "\"BOL Type\""
 						},
 						"sink": {
 							"name": "BOLType"
@@ -2122,7 +2122,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pickup DateTime]"
+							"name": "\"Pickup DateTime\""
 						},
 						"sink": {
 							"name": "PickupDateTime"
@@ -2130,7 +2130,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ready DateTime]"
+							"name": "\"Ready DateTime\""
 						},
 						"sink": {
 							"name": "ReadyDateTime"
@@ -2138,7 +2138,7 @@
 					},
 					{
 						"source": {
-							"name": "[Delivery Date]"
+							"name": "\"Delivery Date\""
 						},
 						"sink": {
 							"name": "DeliveryDate"
@@ -2154,7 +2154,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ready Before DateTime]"
+							"name": "\"Ready Before DateTime\""
 						},
 						"sink": {
 							"name": "ReadyBeforeDateTime"
@@ -2162,7 +2162,7 @@
 					},
 					{
 						"source": {
-							"name": "[Posted DateTime]"
+							"name": "\"Posted DateTime\""
 						},
 						"sink": {
 							"name": "PostedDateTime"
@@ -2170,7 +2170,7 @@
 					},
 					{
 						"source": {
-							"name": "[Days In Transit]"
+							"name": "\"Days In Transit\""
 						},
 						"sink": {
 							"name": "DaysInTransit"
@@ -2178,7 +2178,7 @@
 					},
 					{
 						"source": {
-							"name": "[Estimated Delivery Date]"
+							"name": "\"Estimated Delivery Date\""
 						},
 						"sink": {
 							"name": "EstimatedDeliveryDate"
@@ -2186,7 +2186,7 @@
 					},
 					{
 						"source": {
-							"name": "[Booked DateTime]"
+							"name": "\"Booked DateTime\""
 						},
 						"sink": {
 							"name": "BookedDateTime"
@@ -2194,7 +2194,7 @@
 					},
 					{
 						"source": {
-							"name": "[Origin Terminal]"
+							"name": "\"Origin Terminal\""
 						},
 						"sink": {
 							"name": "OriginTerminal"
@@ -2202,7 +2202,7 @@
 					},
 					{
 						"source": {
-							"name": "[Destination Terminal]"
+							"name": "\"Destination Terminal\""
 						},
 						"sink": {
 							"name": "DestinationTerminal"
@@ -2218,7 +2218,7 @@
 					},
 					{
 						"source": {
-							"name": "[Delivery Signature Name]"
+							"name": "\"Delivery Signature Name\""
 						},
 						"sink": {
 							"name": "DeliverySignatureName"
@@ -2226,7 +2226,7 @@
 					},
 					{
 						"source": {
-							"name": "[Signature Proof Of Delivery Available]"
+							"name": "\"Signature Proof Of Delivery Available\""
 						},
 						"sink": {
 							"name": "SignatureProofOfDeliveryAvailable"
@@ -2234,7 +2234,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Address ID]"
+							"name": "\"Recipient Address ID\""
 						},
 						"sink": {
 							"name": "RecipientAddressID"
@@ -2242,7 +2242,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Residential]"
+							"name": "\"Recipient Residential\""
 						},
 						"sink": {
 							"name": "RecipientResidential"
@@ -2250,7 +2250,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Company Name]"
+							"name": "\"Recipient Company Name\""
 						},
 						"sink": {
 							"name": "RecipientCompanyName"
@@ -2258,7 +2258,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Address Line 1]"
+							"name": "\"Recipient Address Line 1\""
 						},
 						"sink": {
 							"name": "RecipientAddressLine1"
@@ -2266,7 +2266,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Address Line 2]"
+							"name": "\"Recipient Address Line 2\""
 						},
 						"sink": {
 							"name": "RecipientAddressLine2"
@@ -2274,7 +2274,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Address Line 3]"
+							"name": "\"Recipient Address Line 3\""
 						},
 						"sink": {
 							"name": "RecipientAddressLine3"
@@ -2282,7 +2282,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient City]"
+							"name": "\"Recipient City\""
 						},
 						"sink": {
 							"name": "RecipientCity"
@@ -2290,7 +2290,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient State/Province Code]"
+							"name": "\"Recipient State/Province Code\""
 						},
 						"sink": {
 							"name": "RecipientState/ProvinceCode"
@@ -2298,7 +2298,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Postal Code]"
+							"name": "\"Recipient Postal Code\""
 						},
 						"sink": {
 							"name": "RecipientPostalCode"
@@ -2306,7 +2306,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Country Code]"
+							"name": "\"Recipient Country Code\""
 						},
 						"sink": {
 							"name": "RecipientCountryCode"
@@ -2314,7 +2314,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Country Name]"
+							"name": "\"Recipient Country Name\""
 						},
 						"sink": {
 							"name": "RecipientCountryName"
@@ -2322,7 +2322,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Location Type]"
+							"name": "\"Recipient Location Type\""
 						},
 						"sink": {
 							"name": "RecipientLocationType"
@@ -2330,7 +2330,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Notes]"
+							"name": "\"Recipient Notes\""
 						},
 						"sink": {
 							"name": "RecipientNotes"
@@ -2338,7 +2338,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Primary Contact Email]"
+							"name": "\"Recipient Primary Contact Email\""
 						},
 						"sink": {
 							"name": "RecipientPrimaryContactEmail"
@@ -2346,7 +2346,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Fax]"
+							"name": "\"Recipient Fax\""
 						},
 						"sink": {
 							"name": "RecipientFax"
@@ -2354,7 +2354,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Primary Contact Phone]"
+							"name": "\"Recipient Primary Contact Phone\""
 						},
 						"sink": {
 							"name": "RecipientPrimaryContactPhone"
@@ -2362,7 +2362,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Primary Contact Name]"
+							"name": "\"Recipient Primary Contact Name\""
 						},
 						"sink": {
 							"name": "RecipientPrimaryContactName"
@@ -2370,7 +2370,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient City, State and ZIP]"
+							"name": "\"Recipient City, State and ZIP\""
 						},
 						"sink": {
 							"name": "RecipientCity,StateandZIP"
@@ -2378,7 +2378,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Address Line 1 and Line 2]"
+							"name": "\"Recipient Address Line 1 and Line 2\""
 						},
 						"sink": {
 							"name": "RecipientAddressLine1andLine2"
@@ -2386,7 +2386,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Address Line 2 and Line 3]"
+							"name": "\"Recipient Address Line 2 and Line 3\""
 						},
 						"sink": {
 							"name": "RecipientAddressLine2andLine3"
@@ -2394,7 +2394,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Address Line 1, 2 and 3]"
+							"name": "\"Recipient Address Line 1, 2 and 3\""
 						},
 						"sink": {
 							"name": "RecipientAddressLine1,2and3"
@@ -2402,7 +2402,7 @@
 					},
 					{
 						"source": {
-							"name": "[Recipient Address Validation Status]"
+							"name": "\"Recipient Address Validation Status\""
 						},
 						"sink": {
 							"name": "RecipientAddressValidationStatus"
@@ -2410,7 +2410,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Address ID]"
+							"name": "\"Sender Address ID\""
 						},
 						"sink": {
 							"name": "SenderAddressID"
@@ -2418,7 +2418,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Residential]"
+							"name": "\"Sender Residential\""
 						},
 						"sink": {
 							"name": "SenderResidential"
@@ -2426,7 +2426,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Company Name]"
+							"name": "\"Sender Company Name\""
 						},
 						"sink": {
 							"name": "SenderCompanyName"
@@ -2434,7 +2434,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Address Line 1]"
+							"name": "\"Sender Address Line 1\""
 						},
 						"sink": {
 							"name": "SenderAddressLine1"
@@ -2442,7 +2442,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Address Line 2]"
+							"name": "\"Sender Address Line 2\""
 						},
 						"sink": {
 							"name": "SenderAddressLine2"
@@ -2450,7 +2450,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Address Line 3]"
+							"name": "\"Sender Address Line 3\""
 						},
 						"sink": {
 							"name": "SenderAddressLine3"
@@ -2458,7 +2458,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender City]"
+							"name": "\"Sender City\""
 						},
 						"sink": {
 							"name": "SenderCity"
@@ -2466,7 +2466,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender State/Province Code]"
+							"name": "\"Sender State/Province Code\""
 						},
 						"sink": {
 							"name": "SenderState/ProvinceCode"
@@ -2474,7 +2474,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Postal Code]"
+							"name": "\"Sender Postal Code\""
 						},
 						"sink": {
 							"name": "SenderPostalCode"
@@ -2482,7 +2482,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Country Code]"
+							"name": "\"Sender Country Code\""
 						},
 						"sink": {
 							"name": "SenderCountryCode"
@@ -2490,7 +2490,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Country Name]"
+							"name": "\"Sender Country Name\""
 						},
 						"sink": {
 							"name": "SenderCountryName"
@@ -2498,7 +2498,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Location Type]"
+							"name": "\"Sender Location Type\""
 						},
 						"sink": {
 							"name": "SenderLocationType"
@@ -2506,7 +2506,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Primary Contact Email]"
+							"name": "\"Sender Primary Contact Email\""
 						},
 						"sink": {
 							"name": "SenderPrimaryContactEmail"
@@ -2514,7 +2514,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Fax]"
+							"name": "\"Sender Fax\""
 						},
 						"sink": {
 							"name": "SenderFax"
@@ -2522,7 +2522,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Primary Contact Phone]"
+							"name": "\"Sender Primary Contact Phone\""
 						},
 						"sink": {
 							"name": "SenderPrimaryContactPhone"
@@ -2530,7 +2530,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Primary Contact Name]"
+							"name": "\"Sender Primary Contact Name\""
 						},
 						"sink": {
 							"name": "SenderPrimaryContactName"
@@ -2538,7 +2538,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender City, State and ZIP]"
+							"name": "\"Sender City, State and ZIP\""
 						},
 						"sink": {
 							"name": "SenderCity,StateandZIP"
@@ -2546,7 +2546,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Address Line 1 and Line 2]"
+							"name": "\"Sender Address Line 1 and Line 2\""
 						},
 						"sink": {
 							"name": "SenderAddressLine1andLine2"
@@ -2554,7 +2554,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Address Line 2 and Line 3]"
+							"name": "\"Sender Address Line 2 and Line 3\""
 						},
 						"sink": {
 							"name": "SenderAddressLine2andLine3"
@@ -2562,7 +2562,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Address Line 1, 2 and 3]"
+							"name": "\"Sender Address Line 1, 2 and 3\""
 						},
 						"sink": {
 							"name": "SenderAddressLine1,2and3"
@@ -2570,7 +2570,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Social Security Number]"
+							"name": "\"Sender Social Security Number\""
 						},
 						"sink": {
 							"name": "SenderSocialSecurityNumber"
@@ -2578,7 +2578,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender Employer Identification Number]"
+							"name": "\"Sender Employer Identification Number\""
 						},
 						"sink": {
 							"name": "SenderEmployerIdentificationNumber"
@@ -2586,7 +2586,7 @@
 					},
 					{
 						"source": {
-							"name": "[Sender TaxIDType]"
+							"name": "\"Sender TaxIDType\""
 						},
 						"sink": {
 							"name": "SenderTaxIDType"
@@ -2594,7 +2594,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ship Carrier Carrier Interface]"
+							"name": "\"Ship Carrier Carrier Interface\""
 						},
 						"sink": {
 							"name": "ShipCarrierCarrierInterface"
@@ -2602,7 +2602,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ship Carrier Name]"
+							"name": "\"Ship Carrier Name\""
 						},
 						"sink": {
 							"name": "ShipCarrierName"
@@ -2610,7 +2610,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ship Carrier Quote ID]"
+							"name": "\"Ship Carrier Quote ID\""
 						},
 						"sink": {
 							"name": "ShipCarrierQuoteID"
@@ -2618,7 +2618,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ship Carrier Service]"
+							"name": "\"Ship Carrier Service\""
 						},
 						"sink": {
 							"name": "ShipCarrierService"
@@ -2626,7 +2626,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ship Carrier SCAC]"
+							"name": "\"Ship Carrier SCAC\""
 						},
 						"sink": {
 							"name": "ShipCarrierSCAC"
@@ -2634,7 +2634,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ship Carrier Account Number]"
+							"name": "\"Ship Carrier Account Number\""
 						},
 						"sink": {
 							"name": "ShipCarrierAccountNumber"
@@ -2642,7 +2642,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Address ID]"
+							"name": "\"Account Billing Address Address ID\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressAddressID"
@@ -2650,7 +2650,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Residential]"
+							"name": "\"Account Billing Address Residential\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressResidential"
@@ -2658,7 +2658,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Company Name]"
+							"name": "\"Account Billing Address Company Name\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressCompanyName"
@@ -2666,7 +2666,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Address Line 1]"
+							"name": "\"Account Billing Address Address Line 1\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressAddressLine1"
@@ -2674,7 +2674,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Address Line 2]"
+							"name": "\"Account Billing Address Address Line 2\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressAddressLine2"
@@ -2682,7 +2682,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Address Line 3]"
+							"name": "\"Account Billing Address Address Line 3\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressAddressLine3"
@@ -2690,7 +2690,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address City]"
+							"name": "\"Account Billing Address City\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressCity"
@@ -2698,7 +2698,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address State/Province Code]"
+							"name": "\"Account Billing Address State/Province Code\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressState/ProvinceCode"
@@ -2706,7 +2706,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Postal Code]"
+							"name": "\"Account Billing Address Postal Code\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressPostalCode"
@@ -2714,7 +2714,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Country Code]"
+							"name": "\"Account Billing Address Country Code\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressCountryCode"
@@ -2722,7 +2722,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Country Name]"
+							"name": "\"Account Billing Address Country Name\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressCountryName"
@@ -2730,7 +2730,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Location Type]"
+							"name": "\"Account Billing Address Location Type\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressLocationType"
@@ -2738,7 +2738,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Primary Contact Email]"
+							"name": "\"Account Billing Address Primary Contact Email\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressPrimaryContactEmail"
@@ -2746,7 +2746,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Fax]"
+							"name": "\"Account Billing Address Fax\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressFax"
@@ -2754,7 +2754,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Primary Contact Phone]"
+							"name": "\"Account Billing Address Primary Contact Phone\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressPrimaryContactPhone"
@@ -2762,7 +2762,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Primary Contact Name]"
+							"name": "\"Account Billing Address Primary Contact Name\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressPrimaryContactName"
@@ -2770,7 +2770,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address City, State and ZIP]"
+							"name": "\"Account Billing Address City, State and ZIP\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressCity,StateandZIP"
@@ -2778,7 +2778,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Address Line 1 and Line 2]"
+							"name": "\"Account Billing Address Address Line 1 and Line 2\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressAddressLine1andLine2"
@@ -2786,7 +2786,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Address Line 2 and Line 3]"
+							"name": "\"Account Billing Address Address Line 2 and Line 3\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressAddressLine2andLine3"
@@ -2794,7 +2794,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Billing Address Address Line 1, 2 and 3]"
+							"name": "\"Account Billing Address Address Line 1, 2 and 3\""
 						},
 						"sink": {
 							"name": "AccountBillingAddressAddressLine1,2and3"
@@ -2802,7 +2802,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Address ID]"
+							"name": "\"Account Shipping Address Address ID\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressAddressID"
@@ -2810,7 +2810,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Company Name]"
+							"name": "\"Account Shipping Address Company Name\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressCompanyName"
@@ -2818,7 +2818,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Address Line 1]"
+							"name": "\"Account Shipping Address Address Line 1\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressAddressLine1"
@@ -2826,7 +2826,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Address Line 2]"
+							"name": "\"Account Shipping Address Address Line 2\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressAddressLine2"
@@ -2834,7 +2834,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Address Line 3]"
+							"name": "\"Account Shipping Address Address Line 3\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressAddressLine3"
@@ -2842,7 +2842,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address City]"
+							"name": "\"Account Shipping Address City\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressCity"
@@ -2850,7 +2850,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address State/Province Code]"
+							"name": "\"Account Shipping Address State/Province Code\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressState/ProvinceCode"
@@ -2858,7 +2858,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Postal Code]"
+							"name": "\"Account Shipping Address Postal Code\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressPostalCode"
@@ -2866,7 +2866,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Country Code]"
+							"name": "\"Account Shipping Address Country Code\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressCountryCode"
@@ -2874,7 +2874,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Country Name]"
+							"name": "\"Account Shipping Address Country Name\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressCountryName"
@@ -2882,7 +2882,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Location Type]"
+							"name": "\"Account Shipping Address Location Type\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressLocationType"
@@ -2890,7 +2890,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Primary Contact Email]"
+							"name": "\"Account Shipping Address Primary Contact Email\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressPrimaryContactEmail"
@@ -2898,7 +2898,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Fax]"
+							"name": "\"Account Shipping Address Fax\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressFax"
@@ -2906,7 +2906,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Primary Contact Phone]"
+							"name": "\"Account Shipping Address Primary Contact Phone\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressPrimaryContactPhone"
@@ -2914,7 +2914,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Primary Contact Name]"
+							"name": "\"Account Shipping Address Primary Contact Name\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressPrimaryContactName"
@@ -2922,7 +2922,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address City, State and ZIP]"
+							"name": "\"Account Shipping Address City, State and ZIP\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressCity,StateandZIP"
@@ -2930,7 +2930,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Address Line 1 and Line 2]"
+							"name": "\"Account Shipping Address Address Line 1 and Line 2\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressAddressLine1andLine2"
@@ -2938,7 +2938,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Address Line 2 and Line 3]"
+							"name": "\"Account Shipping Address Address Line 2 and Line 3\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressAddressLine2andLine3"
@@ -2946,7 +2946,7 @@
 					},
 					{
 						"source": {
-							"name": "[Account Shipping Address Address Line 1, 2 and 3]"
+							"name": "\"Account Shipping Address Address Line 1, 2 and 3\""
 						},
 						"sink": {
 							"name": "AccountShippingAddressAddressLine1,2and3"
@@ -2954,7 +2954,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ship Carrier Carrier Type]"
+							"name": "\"Ship Carrier Carrier Type\""
 						},
 						"sink": {
 							"name": "ShipCarrierCarrierType"
@@ -2962,7 +2962,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ship Carrier Service Type]"
+							"name": "\"Ship Carrier Service Type\""
 						},
 						"sink": {
 							"name": "ShipCarrierServiceType"
@@ -2970,7 +2970,7 @@
 					},
 					{
 						"source": {
-							"name": "[Ship Carrier CarrierServiceName]"
+							"name": "\"Ship Carrier CarrierServiceName\""
 						},
 						"sink": {
 							"name": "ShipCarrierCarrierServiceName"
@@ -2978,7 +2978,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Handling Fee Checked]"
+							"name": "\"Shipment Options Handling Fee Checked\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHandlingFeeChecked"
@@ -2986,7 +2986,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hundredweight]"
+							"name": "\"Shipment Options Hundredweight\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHundredweight"
@@ -2994,7 +2994,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Saturday Delivery]"
+							"name": "\"Shipment Options Saturday Delivery\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsSaturdayDelivery"
@@ -3002,7 +3002,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options HazMat]"
+							"name": "\"Shipment Options HazMat\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHazMat"
@@ -3010,7 +3010,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Handling Fee Amount]"
+							"name": "\"Shipment Options Handling Fee Amount\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHandlingFeeAmount"
@@ -3018,7 +3018,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Checked]"
+							"name": "\"Shipment Options Insurance Checked\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceChecked"
@@ -3026,7 +3026,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Address ID]"
+							"name": "\"Third Party Address Address ID\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressAddressID"
@@ -3034,7 +3034,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Company Name]"
+							"name": "\"Third Party Address Company Name\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressCompanyName"
@@ -3042,7 +3042,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Address Line 1]"
+							"name": "\"Third Party Address Address Line 1\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressAddressLine1"
@@ -3050,7 +3050,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Address Line 2]"
+							"name": "\"Third Party Address Address Line 2\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressAddressLine2"
@@ -3058,7 +3058,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Address Line 3]"
+							"name": "\"Third Party Address Address Line 3\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressAddressLine3"
@@ -3066,7 +3066,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address City]"
+							"name": "\"Third Party Address City\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressCity"
@@ -3074,7 +3074,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address State/Province Code]"
+							"name": "\"Third Party Address State/Province Code\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressState/ProvinceCode"
@@ -3082,7 +3082,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Postal Code]"
+							"name": "\"Third Party Address Postal Code\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressPostalCode"
@@ -3090,7 +3090,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Country Code]"
+							"name": "\"Third Party Address Country Code\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressCountryCode"
@@ -3098,7 +3098,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Country Name]"
+							"name": "\"Third Party Address Country Name\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressCountryName"
@@ -3106,7 +3106,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Location Type]"
+							"name": "\"Third Party Address Location Type\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressLocationType"
@@ -3114,7 +3114,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Notes]"
+							"name": "\"Third Party Address Notes\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressNotes"
@@ -3122,7 +3122,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Primary Contact Email]"
+							"name": "\"Third Party Address Primary Contact Email\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressPrimaryContactEmail"
@@ -3130,7 +3130,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Fax]"
+							"name": "\"Third Party Address Fax\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressFax"
@@ -3138,7 +3138,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Primary Contact Phone]"
+							"name": "\"Third Party Address Primary Contact Phone\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressPrimaryContactPhone"
@@ -3146,7 +3146,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Primary Contact Name]"
+							"name": "\"Third Party Address Primary Contact Name\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressPrimaryContactName"
@@ -3154,7 +3154,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address City, State and ZIP]"
+							"name": "\"Third Party Address City, State and ZIP\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressCity,StateandZIP"
@@ -3162,7 +3162,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Address Line 1 and Line 2]"
+							"name": "\"Third Party Address Address Line 1 and Line 2\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressAddressLine1andLine2"
@@ -3170,7 +3170,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Address Line 2 and Line 3]"
+							"name": "\"Third Party Address Address Line 2 and Line 3\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressAddressLine2andLine3"
@@ -3178,7 +3178,7 @@
 					},
 					{
 						"source": {
-							"name": "[Third Party Address Address Line 1, 2 and 3]"
+							"name": "\"Third Party Address Address Line 1, 2 and 3\""
 						},
 						"sink": {
 							"name": "ThirdPartyAddressAddressLine1,2and3"
@@ -3186,7 +3186,7 @@
 					},
 					{
 						"source": {
-							"name": "[FSI FinancialSystemID]"
+							"name": "\"FSI FinancialSystemID\""
 						},
 						"sink": {
 							"name": "FSIFinancialSystemID"
@@ -3194,7 +3194,7 @@
 					},
 					{
 						"source": {
-							"name": "[FSI Source Company Name]"
+							"name": "\"FSI Source Company Name\""
 						},
 						"sink": {
 							"name": "FSISourceCompanyName"
@@ -3202,7 +3202,7 @@
 					},
 					{
 						"source": {
-							"name": "[FSI Source Document Type]"
+							"name": "\"FSI Source Document Type\""
 						},
 						"sink": {
 							"name": "FSISourceDocumentType"
@@ -3210,7 +3210,7 @@
 					},
 					{
 						"source": {
-							"name": "[FSI Document Type]"
+							"name": "\"FSI Document Type\""
 						},
 						"sink": {
 							"name": "FSIDocumentType"
@@ -3218,7 +3218,7 @@
 					},
 					{
 						"source": {
-							"name": "[FSI Document Key]"
+							"name": "\"FSI Document Key\""
 						},
 						"sink": {
 							"name": "FSIDocumentKey"
@@ -3226,7 +3226,7 @@
 					},
 					{
 						"source": {
-							"name": "[FSI Batch]"
+							"name": "\"FSI Batch\""
 						},
 						"sink": {
 							"name": "FSIBatch"
@@ -3234,7 +3234,7 @@
 					},
 					{
 						"source": {
-							"name": "[FSI Shipper ID]"
+							"name": "\"FSI Shipper ID\""
 						},
 						"sink": {
 							"name": "FSIShipperID"
@@ -3242,7 +3242,7 @@
 					},
 					{
 						"source": {
-							"name": "[FSI Write Back Status]"
+							"name": "\"FSI Write Back Status\""
 						},
 						"sink": {
 							"name": "FSIWriteBackStatus"
@@ -3250,7 +3250,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Notifications ReplyToEmailAddress]"
+							"name": "\"Shipment Options Notifications ReplyToEmailAddress\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsNotificationsReplyToEmailAddress"
@@ -3258,7 +3258,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Notifications FailureEmailAddress]"
+							"name": "\"Shipment Options Notifications FailureEmailAddress\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsNotificationsFailureEmailAddress"
@@ -3266,7 +3266,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Large Package Fee]"
+							"name": "\"Shipment Options Large Package Fee\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsLargePackageFee"
@@ -3274,7 +3274,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Additional Handling Fee]"
+							"name": "\"Shipment Options Additional Handling Fee\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsAdditionalHandlingFee"
@@ -3282,7 +3282,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options COD Total]"
+							"name": "\"Shipment Options COD Total\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsCODTotal"
@@ -3290,7 +3290,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Handling Total Amount]"
+							"name": "\"Shipment Options Handling Total Amount\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHandlingTotalAmount"
@@ -3298,7 +3298,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Base Amount]"
+							"name": "\"Shipment Options Insurance Base Amount\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceBaseAmount"
@@ -3306,7 +3306,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Applied Amount]"
+							"name": "\"Shipment Options Insurance Applied Amount\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceAppliedAmount"
@@ -3314,7 +3314,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Use Third Party]"
+							"name": "\"Shipment Options Insurance Use Third Party\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceUseThirdParty"
@@ -3322,7 +3322,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Amount]"
+							"name": "\"Shipment Options Insurance Third Party Amount\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyAmount"
@@ -3330,7 +3330,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer ID]"
+							"name": "\"Shipment Options Insurance Third Party Insurer ID\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerID"
@@ -3338,7 +3338,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Internal ID]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Internal ID\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerInternalID"
@@ -3346,7 +3346,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Discount Type]"
+							"name": "\"Shipment Options Insurance Discount Type\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceDiscountType"
@@ -3354,7 +3354,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Discount Charge Value]"
+							"name": "\"Shipment Options Insurance Discount Charge Value\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceDiscountChargeValue"
@@ -3362,7 +3362,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Total Fees at Carriers Rate]"
+							"name": "\"Shipment Options Insurance Total Fees at Carriers Rate\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceTotalFeesatCarriersRate"
@@ -3370,7 +3370,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Insurance Type]"
+							"name": "\"Shipment Options Insurance Insurance Type\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceInsuranceType"
@@ -3378,7 +3378,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Name]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Name\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerName"
@@ -3386,7 +3386,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Account]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Account\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAccount"
@@ -3394,7 +3394,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Address ID]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Address ID\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAddressID"
@@ -3402,7 +3402,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Address Company Name]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Address Company Name\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAddressCompanyName"
@@ -3410,7 +3410,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Address Address Line 1]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Address Address Line 1\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAddressAddressLine1"
@@ -3418,7 +3418,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Address Line 2]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Address Line 2\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAddressLine2"
@@ -3426,7 +3426,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Address Line 3]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Address Line 3\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAddressLine3"
@@ -3434,7 +3434,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Address City]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Address City\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAddressCity"
@@ -3442,7 +3442,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Address State/Province Code]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Address State/Province Code\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAddressState/ProvinceCode"
@@ -3450,7 +3450,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Address Postal Code]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Address Postal Code\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAddressPostalCode"
@@ -3458,7 +3458,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Address Country Name]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Address Country Name\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAddressCountryName"
@@ -3466,7 +3466,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Address City, State and ZIP]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Address City, State and ZIP\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAddressCity,StateandZIP"
@@ -3474,7 +3474,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Address Line 1 and Line 2]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Address Line 1 and Line 2\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAddressLine1andLine2"
@@ -3482,7 +3482,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Address Line 2 and Line 3]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Address Line 2 and Line 3\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAddressLine2andLine3"
@@ -3490,7 +3490,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Insurance Third Party Insurer Address Line 1, 2 and 3]"
+							"name": "\"Shipment Options Insurance Third Party Insurer Address Line 1, 2 and 3\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsInsuranceThirdPartyInsurerAddressLine1,2and3"
@@ -3498,7 +3498,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Shipment]"
+							"name": "\"Shipment Options Return Shipment\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnShipment"
@@ -3506,7 +3506,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Type]"
+							"name": "\"Shipment Options Return Type\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnType"
@@ -3514,7 +3514,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return RMA Number]"
+							"name": "\"Shipment Options Return RMA Number\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnRMANumber"
@@ -3522,7 +3522,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Failed E-mail]"
+							"name": "\"Shipment Options Return Failed E-mail\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnFailedE-mail"
@@ -3530,7 +3530,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Reason]"
+							"name": "\"Shipment Options Return Reason\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnReason"
@@ -3538,7 +3538,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Recipient Pickup]"
+							"name": "\"Shipment Options Return Recipient Pickup\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnRecipientPickup"
@@ -3546,7 +3546,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Pickup Address Address ID]"
+							"name": "\"Shipment Options Return Pickup Address Address ID\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnPickupAddressAddressID"
@@ -3554,7 +3554,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Pickup Address Company Name]"
+							"name": "\"Shipment Options Return Pickup Address Company Name\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnPickupAddressCompanyName"
@@ -3562,7 +3562,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Pickup Address Address Line 1]"
+							"name": "\"Shipment Options Return Pickup Address Address Line 1\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnPickupAddressAddressLine1"
@@ -3570,7 +3570,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Pickup Address Address Line 2]"
+							"name": "\"Shipment Options Return Pickup Address Address Line 2\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnPickupAddressAddressLine2"
@@ -3578,7 +3578,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Pickup Address Address Line 3]"
+							"name": "\"Shipment Options Return Pickup Address Address Line 3\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnPickupAddressAddressLine3"
@@ -3586,7 +3586,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Pickup Address City]"
+							"name": "\"Shipment Options Return Pickup Address City\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnPickupAddressCity"
@@ -3594,7 +3594,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Pickup Address State/Province Code]"
+							"name": "\"Shipment Options Return Pickup Address State/Province Code\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnPickupAddressState/ProvinceCode"
@@ -3602,7 +3602,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Pickup Address Postal Code]"
+							"name": "\"Shipment Options Return Pickup Address Postal Code\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnPickupAddressPostalCode"
@@ -3610,7 +3610,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Pickup Address Country Name]"
+							"name": "\"Shipment Options Return Pickup Address Country Name\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnPickupAddressCountryName"
@@ -3618,7 +3618,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Pickup Address City, State and ZIP]"
+							"name": "\"Shipment Options Return Pickup Address City, State and ZIP\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnPickupAddressCity,StateandZIP"
@@ -3626,7 +3626,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Pickup Address Address Line 1 and Line 2]"
+							"name": "\"Shipment Options Return Pickup Address Address Line 1 and Line 2\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnPickupAddressAddressLine1andLine2"
@@ -3634,7 +3634,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Pickup Address Address Line 2 and Line 3]"
+							"name": "\"Shipment Options Return Pickup Address Address Line 2 and Line 3\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnPickupAddressAddressLine2andLine3"
@@ -3642,7 +3642,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Return Pickup Address Address Line 1, 2 and 3]"
+							"name": "\"Shipment Options Return Pickup Address Address Line 1, 2 and 3\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsReturnPickupAddressAddressLine1,2and3"
@@ -3650,7 +3650,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Verbal Confirmation Contact Name]"
+							"name": "\"Shipment Options Verbal Confirmation Contact Name\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsVerbalConfirmationContactName"
@@ -3658,7 +3658,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Verbal Confirmation HM Phone Number]"
+							"name": "\"Shipment Options Verbal Confirmation HM Phone Number\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsVerbalConfirmationHMPhoneNumber"
@@ -3666,7 +3666,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hold at Address Address ID]"
+							"name": "\"Shipment Options Hold at Address Address ID\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHoldatAddressAddressID"
@@ -3674,7 +3674,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hold at Address Company Name]"
+							"name": "\"Shipment Options Hold at Address Company Name\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHoldatAddressCompanyName"
@@ -3682,7 +3682,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hold at Address Address Line 1]"
+							"name": "\"Shipment Options Hold at Address Address Line 1\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHoldatAddressAddressLine1"
@@ -3690,7 +3690,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hold at Address Address Line 2]"
+							"name": "\"Shipment Options Hold at Address Address Line 2\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHoldatAddressAddressLine2"
@@ -3698,7 +3698,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hold at Address Address Line 3]"
+							"name": "\"Shipment Options Hold at Address Address Line 3\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHoldatAddressAddressLine3"
@@ -3706,7 +3706,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hold at Address City]"
+							"name": "\"Shipment Options Hold at Address City\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHoldatAddressCity"
@@ -3714,7 +3714,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hold at Address State/Province Code]"
+							"name": "\"Shipment Options Hold at Address State/Province Code\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHoldatAddressState/ProvinceCode"
@@ -3722,7 +3722,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hold at Address Postal Code]"
+							"name": "\"Shipment Options Hold at Address Postal Code\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHoldatAddressPostalCode"
@@ -3730,7 +3730,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hold at Address Country Name]"
+							"name": "\"Shipment Options Hold at Address Country Name\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHoldatAddressCountryName"
@@ -3738,7 +3738,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hold at Address City, State and ZIP]"
+							"name": "\"Shipment Options Hold at Address City, State and ZIP\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHoldatAddressCity,StateandZIP"
@@ -3746,7 +3746,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hold at Address Address Line 1 and Line 2]"
+							"name": "\"Shipment Options Hold at Address Address Line 1 and Line 2\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHoldatAddressAddressLine1andLine2"
@@ -3754,7 +3754,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hold at Address Address Line 2 and Line 3]"
+							"name": "\"Shipment Options Hold at Address Address Line 2 and Line 3\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHoldatAddressAddressLine2andLine3"
@@ -3762,7 +3762,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Hold at Address Address Line 1, 2 and 3]"
+							"name": "\"Shipment Options Hold at Address Address Line 1, 2 and 3\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsHoldatAddressAddressLine1,2and3"
@@ -3770,7 +3770,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Scheduled Delivery Date]"
+							"name": "\"Shipment Options Scheduled Delivery Date\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsScheduledDeliveryDate"
@@ -3778,7 +3778,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Scheduled Delivery Phone]"
+							"name": "\"Shipment Options Scheduled Delivery Phone\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsScheduledDeliveryPhone"
@@ -3786,7 +3786,7 @@
 					},
 					{
 						"source": {
-							"name": "[Options Delivery Confirmation]"
+							"name": "\"Options Delivery Confirmation\""
 						},
 						"sink": {
 							"name": "OptionsDeliveryConfirmation"
@@ -3794,7 +3794,7 @@
 					},
 					{
 						"source": {
-							"name": "[Options Delivery Confirmation Signature Type]"
+							"name": "\"Options Delivery Confirmation Signature Type\""
 						},
 						"sink": {
 							"name": "OptionsDeliveryConfirmationSignatureType"
@@ -3802,7 +3802,7 @@
 					},
 					{
 						"source": {
-							"name": "[Options Signature]"
+							"name": "\"Options Signature\""
 						},
 						"sink": {
 							"name": "OptionsSignature"
@@ -3810,7 +3810,7 @@
 					},
 					{
 						"source": {
-							"name": "[Options Signature Type]"
+							"name": "\"Options Signature Type\""
 						},
 						"sink": {
 							"name": "OptionsSignatureType"
@@ -3818,7 +3818,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Options Signature Release Number]"
+							"name": "\"Shipment Options Signature Release Number\""
 						},
 						"sink": {
 							"name": "ShipmentOptionsSignatureReleaseNumber"
@@ -3826,7 +3826,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Charges List Charges Total]"
+							"name": "\"Shipment Charges List Charges Total\""
 						},
 						"sink": {
 							"name": "ShipmentChargesListChargesTotal"
@@ -3834,7 +3834,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Charges Custom Charges Total]"
+							"name": "\"Shipment Charges Custom Charges Total\""
 						},
 						"sink": {
 							"name": "ShipmentChargesCustomChargesTotal"
@@ -3842,7 +3842,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Charges Applied Charges Total]"
+							"name": "\"Shipment Charges Applied Charges Total\""
 						},
 						"sink": {
 							"name": "ShipmentChargesAppliedChargesTotal"
@@ -3850,7 +3850,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Charges List Accessorial Charges]"
+							"name": "\"Shipment Charges List Accessorial Charges\""
 						},
 						"sink": {
 							"name": "ShipmentChargesListAccessorialCharges"
@@ -3858,7 +3858,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Charges Custom Accessorial Charges]"
+							"name": "\"Shipment Charges Custom Accessorial Charges\""
 						},
 						"sink": {
 							"name": "ShipmentChargesCustomAccessorialCharges"
@@ -3866,7 +3866,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Charges Applied Accessorial Charges]"
+							"name": "\"Shipment Charges Applied Accessorial Charges\""
 						},
 						"sink": {
 							"name": "ShipmentChargesAppliedAccessorialCharges"
@@ -3874,7 +3874,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Charges List Freight Charges]"
+							"name": "\"Shipment Charges List Freight Charges\""
 						},
 						"sink": {
 							"name": "ShipmentChargesListFreightCharges"
@@ -3882,7 +3882,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Charges Custom Freight Charges]"
+							"name": "\"Shipment Charges Custom Freight Charges\""
 						},
 						"sink": {
 							"name": "ShipmentChargesCustomFreightCharges"
@@ -3890,7 +3890,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment Charges Applied Freight Charges]"
+							"name": "\"Shipment Charges Applied Freight Charges\""
 						},
 						"sink": {
 							"name": "ShipmentChargesAppliedFreightCharges"
@@ -3921,7 +3921,7 @@
 				"mappings": [
 					{
 						"source": {
-							"name": "[Pallet Internal ID]"
+							"name": "\"Pallet Internal ID\""
 						},
 						"sink": {
 							"name": "PalletInternalID"
@@ -3929,7 +3929,7 @@
 					},
 					{
 						"source": {
-							"name": "[Shipment ID]"
+							"name": "\"Shipment ID\""
 						},
 						"sink": {
 							"name": "ShipmentID"
@@ -3937,7 +3937,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet ID]"
+							"name": "\"Pallet ID\""
 						},
 						"sink": {
 							"name": "PalletID"
@@ -3945,7 +3945,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Name]"
+							"name": "\"Pallet Name\""
 						},
 						"sink": {
 							"name": "PalletName"
@@ -3953,7 +3953,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Packaging Type]"
+							"name": "\"Pallet Packaging Type\""
 						},
 						"sink": {
 							"name": "PalletPackagingType"
@@ -3961,7 +3961,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Length]"
+							"name": "\"Pallet Length\""
 						},
 						"sink": {
 							"name": "PalletLength"
@@ -3969,7 +3969,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Height]"
+							"name": "\"Pallet Height\""
 						},
 						"sink": {
 							"name": "PalletHeight"
@@ -3977,7 +3977,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Width]"
+							"name": "\"Pallet Width\""
 						},
 						"sink": {
 							"name": "PalletWidth"
@@ -3985,7 +3985,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Weight]"
+							"name": "\"Pallet Weight\""
 						},
 						"sink": {
 							"name": "PalletWeight"
@@ -3993,7 +3993,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet User Weight]"
+							"name": "\"Pallet User Weight\""
 						},
 						"sink": {
 							"name": "PalletUserWeight"
@@ -4001,7 +4001,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Cubics]"
+							"name": "\"Pallet Cubics\""
 						},
 						"sink": {
 							"name": "PalletCubics"
@@ -4009,7 +4009,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Qty]"
+							"name": "\"Pallet Qty\""
 						},
 						"sink": {
 							"name": "PalletQty"
@@ -4017,7 +4017,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet External ID]"
+							"name": "\"Pallet External ID\""
 						},
 						"sink": {
 							"name": "PalletExternalID"
@@ -4025,7 +4025,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Total UOM Weight]"
+							"name": "\"Pallet Total UOM Weight\""
 						},
 						"sink": {
 							"name": "PalletTotalUOMWeight"
@@ -4033,7 +4033,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Actual Weight]"
+							"name": "\"Pallet Actual Weight\""
 						},
 						"sink": {
 							"name": "PalletActualWeight"
@@ -4041,7 +4041,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Pack Field 1]"
+							"name": "\"Pallet Pack Field 1\""
 						},
 						"sink": {
 							"name": "PalletPackField1"
@@ -4049,7 +4049,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Pack Field 2]"
+							"name": "\"Pallet Pack Field 2\""
 						},
 						"sink": {
 							"name": "PalletPackField2"
@@ -4057,7 +4057,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Pack Field 3]"
+							"name": "\"Pallet Pack Field 3\""
 						},
 						"sink": {
 							"name": "PalletPackField3"
@@ -4065,7 +4065,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Pack Field 4]"
+							"name": "\"Pallet Pack Field 4\""
 						},
 						"sink": {
 							"name": "PalletPackField4"
@@ -4073,7 +4073,7 @@
 					},
 					{
 						"source": {
-							"name": "[Pallet Pack Field 5]"
+							"name": "\"Pallet Pack Field 5\""
 						},
 						"sink": {
 							"name": "PalletPackField5"
